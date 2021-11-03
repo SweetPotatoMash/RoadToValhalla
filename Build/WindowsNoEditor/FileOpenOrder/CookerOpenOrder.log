@@ -1,0 +1,846 @@
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/FMOD/Banks/CharacterEffects.uasset" 0
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/FMOD/Banks/CharacterEffects.uexp" 1
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/FMOD/Banks/Master.uasset" 2
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/FMOD/Banks/Master.uexp" 3
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/FMOD/Banks/Music.uasset" 4
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/FMOD/Banks/Music.uexp" 5
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/FMOD/Buses/Reverb.uasset" 6
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/FMOD/Buses/Reverb.uexp" 7
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/FMOD/Events/Music/ThemeMusic.uasset" 8
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/FMOD/Events/Music/ThemeMusic.uexp" 9
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/FMOD/PrivateIntegrationData/AssetLookup.uasset" 10
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/FMOD/PrivateIntegrationData/AssetLookup.uexp" 11
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/FMOD/PrivateIntegrationData/BankLookup.uasset" 12
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/FMOD/PrivateIntegrationData/BankLookup.uexp" 13
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 14
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uexp" 15
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.ubulk" 16
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 17
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uexp" 18
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.ubulk" 19
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 20
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uexp" 21
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 22
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uexp" 23
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 24
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uexp" 25
+"../../../Engine/Content/BasicShapes/Cube.uasset" 26
+"../../../Engine/Content/BasicShapes/Cube.uexp" 27
+"../../../Engine/Content/BasicShapes/Plane.uasset" 28
+"../../../Engine/Content/BasicShapes/Plane.uexp" 29
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 30
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uexp" 31
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 32
+"../../../Engine/Content/BasicShapes/Sphere.uexp" 33
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 34
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uexp" 35
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 36
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uexp" 37
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 38
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uexp" 39
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 40
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uexp" 41
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 42
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uexp" 43
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk" 44
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 45
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uexp" 46
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 47
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uexp" 48
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 49
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uexp" 50
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 51
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uexp" 52
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 53
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uexp" 54
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 55
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uexp" 56
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 57
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uexp" 58
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 59
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uexp" 60
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 61
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uexp" 62
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 63
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uexp" 64
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 65
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uexp" 66
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 67
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uexp" 68
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 69
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uexp" 70
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.ubulk" 71
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 72
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uexp" 73
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.ubulk" 74
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 75
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uexp" 76
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 77
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uexp" 78
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 79
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uexp" 80
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 81
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uexp" 82
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 83
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uexp" 84
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 85
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uexp" 86
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 87
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uexp" 88
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 89
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uexp" 90
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 91
+"../../../Engine/Content/EditorResources/BSPVertex.uexp" 92
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 93
+"../../../Engine/Content/EditorResources/EmptyActor.uexp" 94
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 95
+"../../../Engine/Content/EditorResources/S_Actor.uexp" 96
+"../../../Engine/Content/EditorResources/S_Actor.ubulk" 97
+"../../../Engine/Content/EditorResources/S_Note.uasset" 98
+"../../../Engine/Content/EditorResources/S_Note.uexp" 99
+"../../../Engine/Content/EditorResources/S_Note.ubulk" 100
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 101
+"../../../Engine/Content/EditorResources/S_Solver.uexp" 102
+"../../../Engine/Content/EditorResources/S_Solver.ubulk" 103
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 104
+"../../../Engine/Content/EditorResources/S_Terrain.uexp" 105
+"../../../Engine/Content/EditorResources/S_Terrain.ubulk" 106
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 107
+"../../../Engine/Content/EditorResources/S_Trigger.uexp" 108
+"../../../Engine/Content/EditorResources/S_Trigger.ubulk" 109
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 110
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uexp" 111
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.ubulk" 112
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 113
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uexp" 114
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 115
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uexp" 116
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 117
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uexp" 118
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 119
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uexp" 120
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 121
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uexp" 122
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 123
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uexp" 124
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 125
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uexp" 126
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 127
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uexp" 128
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 129
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uexp" 130
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 131
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uexp" 132
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 133
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uexp" 134
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 135
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uexp" 136
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 137
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uexp" 138
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont" 139
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 140
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uexp" 141
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.ufont" 142
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 143
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uexp" 144
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.ufont" 145
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 146
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uexp" 147
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.ufont" 148
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 149
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uexp" 150
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont" 151
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 152
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uexp" 153
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.ufont" 154
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 155
+"../../../Engine/Content/EngineFonts/Roboto.uexp" 156
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 157
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uexp" 158
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 159
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uexp" 160
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 161
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uexp" 162
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 163
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uexp" 164
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 165
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uexp" 166
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 167
+"../../../Engine/Content/EngineMaterials/BlueNoise.uexp" 168
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 169
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uexp" 170
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 171
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uexp" 172
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 173
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uexp" 174
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.ubulk" 175
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 176
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uexp" 177
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 178
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uexp" 179
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 180
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uexp" 181
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 182
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uexp" 183
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 184
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uexp" 185
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 186
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uexp" 187
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 188
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uexp" 189
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 190
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uexp" 191
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.ubulk" 192
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 193
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uexp" 194
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 195
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uexp" 196
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 197
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uexp" 198
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 199
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uexp" 200
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 201
+"../../../Engine/Content/EngineMaterials/MiniFont.uexp" 202
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 203
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uexp" 204
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.ubulk" 205
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 206
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uexp" 207
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 208
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uexp" 209
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 210
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uexp" 211
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uasset" 212
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uexp" 213
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uasset" 214
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uexp" 215
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uasset" 216
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uexp" 217
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uasset" 218
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uexp" 219
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 220
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uexp" 221
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 222
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uexp" 223
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 224
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uexp" 225
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 226
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uexp" 227
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 228
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uexp" 229
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 230
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uexp" 231
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 232
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uexp" 233
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 234
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uexp" 235
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 236
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uexp" 237
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 238
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uexp" 239
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 240
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uexp" 241
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 242
+"../../../Engine/Content/EngineMeshes/Cylinder.uexp" 243
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 244
+"../../../Engine/Content/EngineMeshes/Sphere.uexp" 245
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 246
+"../../../Engine/Content/EngineResources/DefaultTexture.uexp" 247
+"../../../Engine/Content/EngineResources/DefaultTexture.ubulk" 248
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 249
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uexp" 250
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 251
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uexp" 252
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 253
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uexp" 254
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 255
+"../../../Engine/Content/EngineResources/GradientTexture0.uexp" 256
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 257
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uexp" 258
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.ubulk" 259
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 260
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uexp" 261
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 262
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uexp" 263
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.ubulk" 264
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 265
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uexp" 266
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 267
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uexp" 268
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 269
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uexp" 270
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 271
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uexp" 272
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 273
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uexp" 274
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 275
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uexp" 276
+"../../../Engine/Content/EngineSounds/Master.uasset" 277
+"../../../Engine/Content/EngineSounds/Master.uexp" 278
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 279
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uexp" 280
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 281
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uexp" 282
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 283
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uexp" 284
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 285
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uexp" 286
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 287
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uexp" 288
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 289
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uexp" 290
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 291
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uexp" 292
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 293
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uexp" 294
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 295
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uexp" 296
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 297
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uexp" 298
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 299
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uexp" 300
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 301
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uexp" 302
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 303
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uexp" 304
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 305
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uexp" 306
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 307
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uexp" 308
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 309
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uexp" 310
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 311
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uexp" 312
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 313
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uexp" 314
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 315
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uexp" 316
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 317
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uexp" 318
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 319
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uexp" 320
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 321
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uexp" 322
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 323
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uexp" 324
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 325
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uexp" 326
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 327
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uexp" 328
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/CameraActor_64x.uasset" 329
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/CameraActor_64x.uexp" 330
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 331
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uexp" 332
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 333
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 334
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 335
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uexp" 336
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 337
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uexp" 338
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 339
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uexp" 340
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.ubulk" 341
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 342
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uexp" 343
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 344
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uexp" 345
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 346
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uexp" 347
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 348
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uexp" 349
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 350
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uexp" 351
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 352
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uexp" 353
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 354
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uexp" 355
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 356
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uexp" 357
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 358
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uexp" 359
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.ubulk" 360
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset" 361
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uexp" 362
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 363
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uexp" 364
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 365
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uexp" 366
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 367
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uexp" 368
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 369
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uexp" 370
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 371
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 372
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 373
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 374
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 375
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 376
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 377
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 378
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 379
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 380
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 381
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 382
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 383
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 384
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 385
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 386
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 387
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 388
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 389
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 390
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 391
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 392
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 393
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 394
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uexp" 395
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 396
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uexp" 397
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uasset" 398
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uexp" 399
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uasset" 400
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uexp" 401
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 402
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uexp" 403
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 404
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uexp" 405
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 406
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uexp" 407
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 408
+"../../../Engine/Content/BasicShapes/Cylinder.uexp" 409
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 410
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uexp" 411
+"../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 412
+"../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uexp" 413
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.uasset" 414
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.uexp" 415
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.ubulk" 416
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.uasset" 417
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.uexp" 418
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.ubulk" 419
+"../../../Engine/Content/EngineResources/Black.uasset" 420
+"../../../Engine/Content/EngineResources/Black.uexp" 421
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/M_XRController.uasset" 422
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/M_XRController.uexp" 423
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MI_GoogleDaydream.uasset" 424
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MI_GoogleDaydream.uexp" 425
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/GoogleDaydreamController.uasset" 426
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/GoogleDaydreamController.uexp" 427
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/BaseTexture.uasset" 428
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/BaseTexture.uexp" 429
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/BaseTexture.ubulk" 430
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/MI_HTCVive.uasset" 431
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/MI_HTCVive.uexp" 432
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/HTCViveController.uasset" 433
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/HTCViveController.uexp" 434
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/NormalTexture.uasset" 435
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/NormalTexture.uexp" 436
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/NormalTexture.ubulk" 437
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MRTexture.uasset" 438
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MRTexture.uexp" 439
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MRTexture.ubulk" 440
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/EmissiveTexture.uasset" 441
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/EmissiveTexture.uexp" 442
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/EmissiveTexture.ubulk" 443
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/BaseTexture.uasset" 444
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/BaseTexture.uexp" 445
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/BaseTexture.ubulk" 446
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MI_MicrosoftMixedReality.uasset" 447
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MI_MicrosoftMixedReality.uexp" 448
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/Left/left_MicrosoftMixedRealityController.uasset" 449
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/Left/left_MicrosoftMixedRealityController.uexp" 450
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/Right/right_MicrosoftMixedRealityController.uasset" 451
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/Right/right_MicrosoftMixedRealityController.uexp" 452
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/BaseTexture.uasset" 453
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/BaseTexture.uexp" 454
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/BaseTexture.ubulk" 455
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/MI_OculusGo.uasset" 456
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/MI_OculusGo.uexp" 457
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/OculusGoController.uasset" 458
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/OculusGoController.uexp" 459
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MRTexture.uasset" 460
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MRTexture.uexp" 461
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MRTexture.ubulk" 462
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/BaseTexture.uasset" 463
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/BaseTexture.uexp" 464
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/BaseTexture.ubulk" 465
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MI_OculusTouch.uasset" 466
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MI_OculusTouch.uexp" 467
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/Left/left_OculusTouchController.uasset" 468
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/Left/left_OculusTouchController.uexp" 469
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/Right/right_OculusTouchController.uasset" 470
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/Right/right_OculusTouchController.uexp" 471
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MRTexture.uasset" 472
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MRTexture.uexp" 473
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MRTexture.ubulk" 474
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/BaseTexture.uasset" 475
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/BaseTexture.uexp" 476
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/BaseTexture.ubulk" 477
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MI_OculusTouch_v2.uasset" 478
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MI_OculusTouch_v2.uexp" 479
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Left/left_OculusTouch_v2Controller.uasset" 480
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Left/left_OculusTouch_v2Controller.uexp" 481
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Right/right_OculusTouch_v2Controller.uasset" 482
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Right/right_OculusTouch_v2Controller.uexp" 483
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MRTexture.uasset" 484
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MRTexture.uexp" 485
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MRTexture.ubulk" 486
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/BaseTexture.uasset" 487
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/BaseTexture.uexp" 488
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/BaseTexture.ubulk" 489
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MI_OculusTouch_v3.uasset" 490
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MI_OculusTouch_v3.uexp" 491
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/Left/left_OculusTouch_v3Controller.uasset" 492
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/Left/left_OculusTouch_v3Controller.uexp" 493
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/Right/right_OculusTouch_v3Controller.uasset" 494
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/Right/right_OculusTouch_v3Controller.uexp" 495
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/left_MRTexture.uasset" 496
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/left_MRTexture.uexp" 497
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/left_MRTexture.ubulk" 498
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/left_BaseTexture.uasset" 499
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/left_BaseTexture.uexp" 500
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/left_BaseTexture.ubulk" 501
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/MI_left_ValveIndex.uasset" 502
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/MI_left_ValveIndex.uexp" 503
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/left_ValveIndexController.uasset" 504
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/left_ValveIndexController.uexp" 505
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/right_MRTexture.uasset" 506
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/right_MRTexture.uexp" 507
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/right_MRTexture.ubulk" 508
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/right_BaseTexture.uasset" 509
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/right_BaseTexture.uexp" 510
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/right_BaseTexture.ubulk" 511
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/MI_right_ValveIndex.uasset" 512
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/MI_right_ValveIndex.uexp" 513
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/right_ValveIndexController.uasset" 514
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/right_ValveIndexController.uexp" 515
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 516
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uexp" 517
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 518
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uexp" 519
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 520
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uexp" 521
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 522
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uexp" 523
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 524
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uexp" 525
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 526
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uexp" 527
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.ubulk" 528
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 529
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uexp" 530
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.ubulk" 531
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 532
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uexp" 533
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 534
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uexp" 535
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/TouchForQuestRiftSController_albedo.uasset" 536
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/TouchForQuestRiftSController_albedo.uexp" 537
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/TouchForQuestRiftSController_albedo.ubulk" 538
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/TouchForQuestRiftSControllerMaterial.uasset" 539
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/TouchForQuestRiftSControllerMaterial.uexp" 540
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchForQuestRiftSController.uasset" 541
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchForQuestRiftSController.uexp" 542
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 543
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uexp" 544
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 545
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uexp" 546
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uasset" 547
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uexp" 548
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/GameState/BP_JH_GameInstance.uasset" 549
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/GameState/BP_JH_GameInstance.uexp" 550
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/V2/ObjectScale.uasset" 551
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/V2/ObjectScale.uexp" 552
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Materials/Images/brick_wall_tilable.uasset" 553
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Materials/Images/brick_wall_tilable.uexp" 554
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Materials/Images/M_BrickWall2.uasset" 555
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Materials/Images/M_BrickWall2.uexp" 556
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Blueprints/E_PlayerState.uasset" 557
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Blueprints/E_PlayerState.uexp" 558
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Enemy/Blueprints/E_EnemyState.uasset" 559
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Enemy/Blueprints/E_EnemyState.uexp" 560
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/HitBox.uasset" 561
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/HitBox.uexp" 562
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Enemy/BasicEnemy/Sprite/SourceImgs/Standing3_Right.uasset" 563
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Enemy/BasicEnemy/Sprite/SourceImgs/Standing3_Right.uexp" 564
+"../../../Engine/Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 565
+"../../../Engine/Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uexp" 566
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Enemy/BasicEnemy/Sprite/Idle/Standing3_Right_Sprite.uasset" 567
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Enemy/BasicEnemy/Sprite/Idle/Standing3_Right_Sprite.uexp" 568
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Enemy/BasicEnemy/Sprite/SourceImgs/Standing2_Right.uasset" 569
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Enemy/BasicEnemy/Sprite/SourceImgs/Standing2_Right.uexp" 570
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Enemy/BasicEnemy/Sprite/Idle/Standing2_Right_Sprite.uasset" 571
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Enemy/BasicEnemy/Sprite/Idle/Standing2_Right_Sprite.uexp" 572
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Enemy/BasicEnemy/Sprite/SourceImgs/Standing1_Right.uasset" 573
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Enemy/BasicEnemy/Sprite/SourceImgs/Standing1_Right.uexp" 574
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Enemy/BasicEnemy/Sprite/Idle/Standing1_Right_Sprite.uasset" 575
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Enemy/BasicEnemy/Sprite/Idle/Standing1_Right_Sprite.uexp" 576
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Enemy/BasicEnemy/Sprite/Animations/Idle/BasicEnemy_IdleRight.uasset" 577
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Enemy/BasicEnemy/Sprite/Animations/Idle/BasicEnemy_IdleRight.uexp" 578
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Enemy/BasicEnemy/Sprite/SourceImgs/Standing3_Left.uasset" 579
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Enemy/BasicEnemy/Sprite/SourceImgs/Standing3_Left.uexp" 580
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Enemy/BasicEnemy/Sprite/Idle/Standing3_Left_Sprite.uasset" 581
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Enemy/BasicEnemy/Sprite/Idle/Standing3_Left_Sprite.uexp" 582
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Enemy/BasicEnemy/Sprite/SourceImgs/Standing2_Left.uasset" 583
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Enemy/BasicEnemy/Sprite/SourceImgs/Standing2_Left.uexp" 584
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Enemy/BasicEnemy/Sprite/Idle/Standing2_Left_Sprite.uasset" 585
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Enemy/BasicEnemy/Sprite/Idle/Standing2_Left_Sprite.uexp" 586
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Enemy/BasicEnemy/Sprite/SourceImgs/Standing1_Left.uasset" 587
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Enemy/BasicEnemy/Sprite/SourceImgs/Standing1_Left.uexp" 588
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Enemy/BasicEnemy/Sprite/Idle/Standing1_Left_Sprite.uasset" 589
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Enemy/BasicEnemy/Sprite/Idle/Standing1_Left_Sprite.uexp" 590
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Enemy/BasicEnemy/Sprite/Animations/Idle/BasicEnemy_IdleLeft.uasset" 591
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Enemy/BasicEnemy/Sprite/Animations/Idle/BasicEnemy_IdleLeft.uexp" 592
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Enemy/BasicEnemy/Blueprints/BP_BasicEnemy.uasset" 593
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Enemy/BasicEnemy/Blueprints/BP_BasicEnemy.uexp" 594
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/BP_RTV_GameCharacter.uasset" 595
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/BP_RTV_GameCharacter.uexp" 596
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Enemy/Blueprints/BP_AbstractEnemy.uasset" 597
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Enemy/Blueprints/BP_AbstractEnemy.uexp" 598
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/PlayerAttack5_Right.uasset" 599
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/PlayerAttack5_Right.uexp" 600
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/AttackingSprite/Basic/PlayerAttack5_Right_Sprite.uasset" 601
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/AttackingSprite/Basic/PlayerAttack5_Right_Sprite.uexp" 602
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/MoveRight2.uasset" 603
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/MoveRight2.uexp" 604
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/WalkingSprite/MoveRight2_Sprite.uasset" 605
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/WalkingSprite/MoveRight2_Sprite.uexp" 606
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/MoveRight1.uasset" 607
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/MoveRight1.uexp" 608
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/WalkingSprite/MoveRight1_Sprite.uasset" 609
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/WalkingSprite/MoveRight1_Sprite.uexp" 610
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/Animations/Walk/WalkingRight.uasset" 611
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/Animations/Walk/WalkingRight.uexp" 612
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/MoveLeft2.uasset" 613
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/MoveLeft2.uexp" 614
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/WalkingSprite/MoveLeft2_Sprite.uasset" 615
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/WalkingSprite/MoveLeft2_Sprite.uexp" 616
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/MoveLeft1.uasset" 617
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/MoveLeft1.uexp" 618
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/WalkingSprite/MoveLeft1_Sprite.uasset" 619
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/WalkingSprite/MoveLeft1_Sprite.uexp" 620
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/Animations/Walk/WalkingLeft.uasset" 621
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/Animations/Walk/WalkingLeft.uexp" 622
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/IdleToWalkingRight.uasset" 623
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/IdleToWalkingRight.uexp" 624
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/Transitions/IdleToWalking/IdleToWalkingRight2_Sprite.uasset" 625
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/Transitions/IdleToWalking/IdleToWalkingRight2_Sprite.uexp" 626
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/Animations/Walk/IdleToWalkingRight.uasset" 627
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/Animations/Walk/IdleToWalkingRight.uexp" 628
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/IdleToWalkingLeft.uasset" 629
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/IdleToWalkingLeft.uexp" 630
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/Transitions/IdleToWalking/IdleToWalkingLeft2_Sprite.uasset" 631
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/Transitions/IdleToWalking/IdleToWalkingLeft2_Sprite.uexp" 632
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/Animations/Walk/IdleToWalkingLeft.uasset" 633
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/Animations/Walk/IdleToWalkingLeft.uexp" 634
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/jumpframe2_right.uasset" 635
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/jumpframe2_right.uexp" 636
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/JumpingSprite/jumpframe2_right_Sprite.uasset" 637
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/JumpingSprite/jumpframe2_right_Sprite.uexp" 638
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/Animations/Jump/ToJumpRight.uasset" 639
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/Animations/Jump/ToJumpRight.uexp" 640
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/jumpframe2_left.uasset" 641
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/jumpframe2_left.uexp" 642
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/JumpingSprite/jumpframe2_left_Sprite.uasset" 643
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/JumpingSprite/jumpframe2_left_Sprite.uexp" 644
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/Animations/Jump/ToJumpLeft.uasset" 645
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/Animations/Jump/ToJumpLeft.uexp" 646
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/jumpframe3_right.uasset" 647
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/jumpframe3_right.uexp" 648
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/JumpingSprite/jumpframe3_right_Sprite.uasset" 649
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/JumpingSprite/jumpframe3_right_Sprite.uexp" 650
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/Animations/Jump/JumpRight.uasset" 651
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/Animations/Jump/JumpRight.uexp" 652
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/jumpframe3_left.uasset" 653
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/jumpframe3_left.uexp" 654
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/JumpingSprite/jumpframe3_left_Sprite.uasset" 655
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/JumpingSprite/jumpframe3_left_Sprite.uexp" 656
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/Animations/Jump/JumpLeft.uasset" 657
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/Animations/Jump/JumpLeft.uexp" 658
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/Animations/Idle/WalkingToIdleRight.uasset" 659
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/Animations/Idle/WalkingToIdleRight.uexp" 660
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/Animations/Idle/WalkingToIdleLeft.uasset" 661
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/Animations/Idle/WalkingToIdleLeft.uexp" 662
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/frame3_0001_Layer-1.uasset" 663
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/frame3_0001_Layer-1.uexp" 664
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/IdleSprite/IdleRight3_Sprite.uasset" 665
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/IdleSprite/IdleRight3_Sprite.uexp" 666
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/frame2_0001_Layer-1.uasset" 667
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/frame2_0001_Layer-1.uexp" 668
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/IdleSprite/IdleRight2_Sprite.uasset" 669
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/IdleSprite/IdleRight2_Sprite.uexp" 670
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/frame1_0001_Layer-1.uasset" 671
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/frame1_0001_Layer-1.uexp" 672
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/IdleSprite/IdleRight1_Sprite.uasset" 673
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/IdleSprite/IdleRight1_Sprite.uexp" 674
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/Animations/Idle/IdleRight.uasset" 675
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/Animations/Idle/IdleRight.uexp" 676
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/frame3_0000_Layer-1-copy.uasset" 677
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/frame3_0000_Layer-1-copy.uexp" 678
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/IdleSprite/IdleLeft3_Sprite.uasset" 679
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/IdleSprite/IdleLeft3_Sprite.uexp" 680
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/frame2_0000_Layer-1-copy.uasset" 681
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/frame2_0000_Layer-1-copy.uexp" 682
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/IdleSprite/IdleLeft2_Sprite.uasset" 683
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/IdleSprite/IdleLeft2_Sprite.uexp" 684
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/frame1_0000_Layer-1-copy.uasset" 685
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/frame1_0000_Layer-1-copy.uexp" 686
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/IdleSprite/IdleLeft1_Sprite.uasset" 687
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/IdleSprite/IdleLeft1_Sprite.uexp" 688
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/Animations/Idle/IdleLeft.uasset" 689
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/Animations/Idle/IdleLeft.uexp" 690
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/fallframe1_right.uasset" 691
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/fallframe1_right.uexp" 692
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/FallingSprite/fallframe1_right_Sprite.uasset" 693
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/FallingSprite/fallframe1_right_Sprite.uexp" 694
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/Animations/Fall/ToFallRight.uasset" 695
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/Animations/Fall/ToFallRight.uexp" 696
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/fallframe1_left.uasset" 697
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/fallframe1_left.uexp" 698
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/FallingSprite/fallframe1_left_Sprite.uasset" 699
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/FallingSprite/fallframe1_left_Sprite.uexp" 700
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/Animations/Fall/ToFallLeft.uasset" 701
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/Animations/Fall/ToFallLeft.uexp" 702
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/fallframe2_right.uasset" 703
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/fallframe2_right.uexp" 704
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/FallingSprite/fallframe2_right_Sprite.uasset" 705
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/FallingSprite/fallframe2_right_Sprite.uexp" 706
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/Animations/Fall/FallRight.uasset" 707
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/Animations/Fall/FallRight.uexp" 708
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/up.uasset" 709
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/up.uexp" 710
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/DashingSprite/up_Sprite.uasset" 711
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/DashingSprite/up_Sprite.uexp" 712
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/Animations/Dash/DashUp.uasset" 713
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/Animations/Dash/DashUp.uexp" 714
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/dashframe2_right.uasset" 715
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/dashframe2_right.uexp" 716
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/DashingSprite/dashframe2_right_Sprite.uasset" 717
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/DashingSprite/dashframe2_right_Sprite.uexp" 718
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/dashframe1_right.uasset" 719
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/dashframe1_right.uexp" 720
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/DashingSprite/dashframe1_right_Sprite.uasset" 721
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/DashingSprite/dashframe1_right_Sprite.uexp" 722
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/Animations/Dash/DashRight.uasset" 723
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/Animations/Dash/DashRight.uexp" 724
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/dashframe2_left.uasset" 725
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/dashframe2_left.uexp" 726
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/DashingSprite/dashframe2_left_Sprite.uasset" 727
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/DashingSprite/dashframe2_left_Sprite.uexp" 728
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/dashframe1_left.uasset" 729
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/dashframe1_left.uexp" 730
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/DashingSprite/dashframe1_left_Sprite.uasset" 731
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/DashingSprite/dashframe1_left_Sprite.uexp" 732
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/Animations/Dash/DashLeft.uasset" 733
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/Animations/Dash/DashLeft.uexp" 734
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/down.uasset" 735
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/down.uexp" 736
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/DashingSprite/down_Sprite.uasset" 737
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/DashingSprite/down_Sprite.uexp" 738
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/Animations/Dash/DashDown.uasset" 739
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/Animations/Dash/DashDown.uexp" 740
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/PlayerAttack6_Right.uasset" 741
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/PlayerAttack6_Right.uexp" 742
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/AttackingSprite/Basic/PlayerAttack6_Right_Sprite.uasset" 743
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/AttackingSprite/Basic/PlayerAttack6_Right_Sprite.uexp" 744
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/PlayerAttack4_Right.uasset" 745
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/PlayerAttack4_Right.uexp" 746
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/AttackingSprite/Basic/PlayerAttack4_Right_Sprite.uasset" 747
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/AttackingSprite/Basic/PlayerAttack4_Right_Sprite.uexp" 748
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/PlayerAttack3_Right.uasset" 749
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/PlayerAttack3_Right.uexp" 750
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/AttackingSprite/Basic/PlayerAttack3_Right_Sprite.uasset" 751
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/AttackingSprite/Basic/PlayerAttack3_Right_Sprite.uexp" 752
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/PlayerAttack2_Right.uasset" 753
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/PlayerAttack2_Right.uexp" 754
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/AttackingSprite/Basic/PlayerAttack2_Right_Sprite.uasset" 755
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/AttackingSprite/Basic/PlayerAttack2_Right_Sprite.uexp" 756
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/PlayerAttack1_Right.uasset" 757
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/PlayerAttack1_Right.uexp" 758
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/AttackingSprite/Basic/PlayerAttack1_Right_Sprite.uasset" 759
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/AttackingSprite/Basic/PlayerAttack1_Right_Sprite.uexp" 760
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/Animations/Attacks/Basic/PlayerBasicAttack_Right.uasset" 761
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/Animations/Attacks/Basic/PlayerBasicAttack_Right.uexp" 762
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/PlayerAttack6_Left.uasset" 763
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/PlayerAttack6_Left.uexp" 764
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/AttackingSprite/Basic/PlayerAttack6_Left_Sprite.uasset" 765
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/AttackingSprite/Basic/PlayerAttack6_Left_Sprite.uexp" 766
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/PlayerAttack5_Left.uasset" 767
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/PlayerAttack5_Left.uexp" 768
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/AttackingSprite/Basic/PlayerAttack5_Left_Sprite.uasset" 769
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/AttackingSprite/Basic/PlayerAttack5_Left_Sprite.uexp" 770
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/PlayerAttack4_Left.uasset" 771
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/PlayerAttack4_Left.uexp" 772
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/AttackingSprite/Basic/PlayerAttack4_Left_Sprite.uasset" 773
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/AttackingSprite/Basic/PlayerAttack4_Left_Sprite.uexp" 774
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/PlayerAttack3_Left.uasset" 775
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/PlayerAttack3_Left.uexp" 776
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/AttackingSprite/Basic/PlayerAttack3_Left_Sprite.uasset" 777
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/AttackingSprite/Basic/PlayerAttack3_Left_Sprite.uexp" 778
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/PlayerAttack2_Left.uasset" 779
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/PlayerAttack2_Left.uexp" 780
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/AttackingSprite/Basic/PlayerAttack2_Left_Sprite.uasset" 781
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/AttackingSprite/Basic/PlayerAttack2_Left_Sprite.uexp" 782
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/PlayerAttack1_Left.uasset" 783
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/PlayerAttack1_Left.uexp" 784
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/AttackingSprite/Basic/PlayerAttack1_Left_Sprite.uasset" 785
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/AttackingSprite/Basic/PlayerAttack1_Left_Sprite.uexp" 786
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/Animations/Attacks/Basic/PlayerBasicAttack_Left.uasset" 787
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/Animations/Attacks/Basic/PlayerBasicAttack_Left.uexp" 788
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/FMOD/Events/Character/Walk.uasset" 789
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/FMOD/Events/Character/Walk.uexp" 790
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/FMOD/Events/Character/Jump.uasset" 791
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/FMOD/Events/Character/Jump.uexp" 792
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/FMOD/Events/Character/Dash.uasset" 793
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/FMOD/Events/Character/Dash.uexp" 794
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/FMOD/Events/Character/Attack.uasset" 795
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/FMOD/Events/Character/Attack.uexp" 796
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/fallframe2_left.uasset" 797
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/SrcImgs/fallframe2_left.uexp" 798
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/FallingSprite/fallframe2_left_Sprite.uasset" 799
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/FallingSprite/fallframe2_left_Sprite.uexp" 800
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/Animations/Fall/FallLeft.uasset" 801
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Sprite/Animations/Fall/FallLeft.uexp" 802
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Enviornment/Blueprints/BP_JH_RespawnCheckpoint.uasset" 803
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Enviornment/Blueprints/BP_JH_RespawnCheckpoint.uexp" 804
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/GameState/BP_RTVGameMode.uasset" 805
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/GameState/BP_RTVGameMode.uexp" 806
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Blueprints/ND_PlayerDirection.uasset" 807
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Blueprints/ND_PlayerDirection.uexp" 808
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Blueprints/LoopPlayerAnimation.uasset" 809
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Blueprints/LoopPlayerAnimation.uexp" 810
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Blueprints/TransPlayerAnimation.uasset" 811
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Blueprints/TransPlayerAnimation.uexp" 812
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Blueprints/ND_PlayerSprite.uasset" 813
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Actors/Player/Character/Blueprints/ND_PlayerSprite.uexp" 814
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/FMOD/Events/Music/LVL01_Theme.uasset" 815
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/FMOD/Events/Music/LVL01_Theme.uexp" 816
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/FMOD/Events/Music/LVL01_Theme_Blueprint.uasset" 817
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/FMOD/Events/Music/LVL01_Theme_Blueprint.uexp" 818
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Enviornment/Geometry/Meshes/TemplateFloor.uasset" 819
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Enviornment/Geometry/Meshes/TemplateFloor.uexp" 820
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Enviornment/Geometry/Meshes/1M_Cube.uasset" 821
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Enviornment/Geometry/Meshes/1M_Cube.uexp" 822
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Enviornment/Geometry/Meshes/CubeMaterial.uasset" 823
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Enviornment/Geometry/Meshes/CubeMaterial.uexp" 824
+"../../../Engine/Content/BasicShapes/Cone.uasset" 825
+"../../../Engine/Content/BasicShapes/Cone.uexp" 826
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Enviornment/Blueprints/KillBox.uasset" 827
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Enviornment/Blueprints/KillBox.uexp" 828
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Enviornment/Blueprints/BP_JH_LevelTransition_Hitbox.uasset" 829
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Enviornment/Blueprints/BP_JH_LevelTransition_Hitbox.uexp" 830
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Enviornment/Levels/Level1/Level1_Challenge.uexp" 831
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Enviornment/Levels/Level1/Level1_Challenge.umap" 832
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Enviornment/Levels/Level1/Level1_DashCorridor.uexp" 833
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Enviornment/Levels/Level1/Level1_DashCorridor.umap" 834
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Enviornment/Levels/Level1/Level1_Nexus.uexp" 835
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Enviornment/Levels/Level1/Level1_Nexus.umap" 836
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Enviornment/Levels/Level1/Level1_Start_BuiltData.uasset" 837
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Enviornment/Levels/Level1/Level1_Start_BuiltData.uexp" 838
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Enviornment/Levels/Level1/Level1_Start_BuiltData.ubulk" 839
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Enviornment/Levels/Level1/Level1_Start.uexp" 840
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Enviornment/Levels/Level1/Level1_Start.umap" 841
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Enviornment/Levels/Level1/Level1_Top.uexp" 842
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Enviornment/Levels/Level1/Level1_Top.umap" 843
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Enviornment/Levels/Level1/Level1_Wings.uexp" 844
+"C:/Users/josha/Documents/Unreal Projects/RoadToValhalla/Content/Enviornment/Levels/Level1/Level1_Wings.umap" 845
