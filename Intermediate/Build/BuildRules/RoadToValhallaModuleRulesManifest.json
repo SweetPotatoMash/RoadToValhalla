@@ -1,8 +1,6 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\u1252863\\Documents\\GitHub\\RoadToValhalla\\Plugins\\BlueprintRetarget-master\\Source\\BlueprintRetarget\\BlueprintRetarget.Build.cs",
-		"C:\\Users\\u1252863\\Documents\\GitHub\\RoadToValhalla\\Plugins\\FMODStudio\\Source\\FMODStudio\\FMODStudio.Build.cs",
-		"C:\\Users\\u1252863\\Documents\\GitHub\\RoadToValhalla\\Plugins\\FMODStudio\\Source\\FMODStudioEditor\\FMODStudioEditor.Build.cs"
+		"D:\\Unreal Projects\\RoadToValhalla\\Plugins\\BlueprintRetarget-master\\Source\\BlueprintRetarget\\BlueprintRetarget.Build.cs"
 	],
 	"EngineVersion": "4.27.0"
 }
