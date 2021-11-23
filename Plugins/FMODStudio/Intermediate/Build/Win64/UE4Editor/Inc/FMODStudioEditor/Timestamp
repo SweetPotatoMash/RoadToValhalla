@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 C:\Users\u1252863\Documents\GitHub\RoadToValhalla\Plugins\FMODStudio\Source\FMODStudioEditor\Classes\FMODAmbientSoundActorFactory.h
 C:\Users\u1252863\Documents\GitHub\RoadToValhalla\Plugins\FMODStudio\Source\FMODStudioEditor\Classes\FMODGenerateAssetsCommandlet.h
+=======
+C:\jk\workspace\Build__2.2__Unreal_Win\integrations\UE4\temp\FMODStudio\HostProject\Plugins\FMODStudio\Source\FMODStudioEditor\Classes\FMODAmbientSoundActorFactory.h
+C:\jk\workspace\Build__2.2__Unreal_Win\integrations\UE4\temp\FMODStudio\HostProject\Plugins\FMODStudio\Source\FMODStudioEditor\Classes\FMODGenerateAssetsCommandlet.h
+>>>>>>> parent of 17c84ff (Merge branch 'Mechanics')

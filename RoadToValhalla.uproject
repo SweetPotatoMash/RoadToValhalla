@@ -11,10 +11,6 @@
 		{
 			"Name": "CodeView",
 			"Enabled": true
-		},
-		{
-			"Name": "ParentRetarget",
-			"Enabled": false
 		}
 	]
 }

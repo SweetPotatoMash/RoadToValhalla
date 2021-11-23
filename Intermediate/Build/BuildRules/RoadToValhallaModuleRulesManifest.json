@@ -1,6 +1,9 @@
 {
 	"SourceFiles": [
+<<<<<<< HEAD
 		"C:\\Users\\josha\\Documents\\Unreal Projects\\RoadToValhalla\\Plugins\\BlueprintRetarget-master\\Source\\BlueprintRetarget\\BlueprintRetarget.Build.cs",
+=======
+>>>>>>> parent of 17c84ff (Merge branch 'Mechanics')
 		"C:\\Users\\josha\\Documents\\Unreal Projects\\RoadToValhalla\\Plugins\\FMODStudio\\Source\\FMODStudioEditor\\FMODStudioEditor.Build.cs",
 		"C:\\Users\\josha\\Documents\\Unreal Projects\\RoadToValhalla\\Plugins\\FMODStudio\\Source\\FMODStudio\\FMODStudio.Build.cs"
 	],
