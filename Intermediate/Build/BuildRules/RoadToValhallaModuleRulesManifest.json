@@ -1,8 +1,10 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\josha\\Documents\\Unreal Projects\\RoadToValhalla\\Plugins\\BlueprintRetarget-master\\Source\\BlueprintRetarget\\BlueprintRetarget.Build.cs",
-		"C:\\Users\\josha\\Documents\\Unreal Projects\\RoadToValhalla\\Plugins\\FMODStudio\\Source\\FMODStudioEditor\\FMODStudioEditor.Build.cs",
-		"C:\\Users\\josha\\Documents\\Unreal Projects\\RoadToValhalla\\Plugins\\FMODStudio\\Source\\FMODStudio\\FMODStudio.Build.cs"
+		"D:\\UofU\\Assignments\\EAE3710\\RoadToValhalla\\Source\\RoadToValhalla\\RoadToValhalla.Build.cs",
+		"D:\\UofU\\Assignments\\EAE3710\\RoadToValhalla\\Plugins\\FMODStudio\\Source\\FMODStudio\\FMODStudio.Build.cs",
+		"D:\\UofU\\Assignments\\EAE3710\\RoadToValhalla\\Plugins\\FMODStudio\\Source\\FMODStudioEditor\\FMODStudioEditor.Build.cs",
+		"D:\\UofU\\Assignments\\EAE3710\\RoadToValhalla\\Source\\RoadToValhalla.Target.cs",
+		"D:\\UofU\\Assignments\\EAE3710\\RoadToValhalla\\Source\\RoadToValhallaEditor.Target.cs"
 	],
 	"EngineVersion": "4.27.0"
 }
